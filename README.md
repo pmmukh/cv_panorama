@@ -1,7 +1,6 @@
 # cv_panorama
 Alignment and Panoramas
 
-Steps taken are :
 1. Read in the images, say input1.jpg, input2.jpg, input3.jpg
 2.Apply cylindrical wrapping if needed
 3.Calculate the transformation (homography for projective; affine for cylindrical) between each
